@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Cycling Trip Visualization
 
 An interactive web application for browsing cycling trips with route visualization, photo integration, and performance metrics. Built with a minimal, Linear-inspired design aesthetic.
@@ -143,4 +140,3 @@ cycling-viz/
 ## License
 
 MIT
->>>>>>> aea59de (Add local README)
